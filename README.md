@@ -114,7 +114,4 @@ The Spring Boot backend serves as the central hub, powering the simulation logic
 
 *   **`ws://localhost:8080/ticket-status`:**  Connect to this endpoint to receive real-time updates on ticket operations.
 
-## Contributing
-
-Contributions to enhance and improve this ticket system simulation are highly welcome! Whether it's fixing bugs, adding new features, or improving the documentation, feel free to submit issues or pull requests.
 
