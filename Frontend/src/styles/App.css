@@ -1,0 +1,188 @@
+/* Global Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f7fc;
+  color: #333;
+}
+
+/* Main App Container */
+.app {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Title Styling */
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* Configuration Form */
+.config-container {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Label Styling */
+label {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Input Field Styling */
+input {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  outline: none;
+  color: black;
+  transition: border 0.3s ease;
+}
+
+input:focus {
+  border-color: #4caf50;
+}
+
+/* Button Styling */
+button {
+  padding: 12px 20px;
+  margin-top: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Error Message Styling */
+.error-message {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+/* Error Class for Fields */
+.error {
+  border-color: red;
+}
+
+/* Ticket Status */
+.ticket-status {
+  padding: 20px;
+  background-color: #eef2f4;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #dcdcdc;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.ticket-status div {
+  font-size: 1.2rem;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Control Panel */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.controls button {
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.start-button {
+  background-color: #4caf50;
+  color: white;
+}
+
+.stop-button {
+  background-color: #f44336;
+  color: white;
+}
+
+.controls button:hover {
+  transform: scale(1.1);
+}
+
+.controls .start-button:disabled {
+  background-color: #b8e2b8;
+}
+
+.controls .stop-button:disabled {
+  background-color: #f8d0d0;
+}
+
+/* Log Display */
+.logs-container {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logs {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #333;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.logs div {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+}
+
+/* Progress Bar */
+.progress-bar-container {
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 20px;
+}
