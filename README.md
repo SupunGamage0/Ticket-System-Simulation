@@ -4,6 +4,11 @@ This project simulates a dynamic ticket vending and purchasing system, providing
 
 ## Frontend (React): 
 
+## 🔗 Live Demo
+[Ticket System Simulation](https://ticket-system-simulation.vercel.app/)
+
+---
+
 The frontend, built with React, offers a user-friendly interface to configure, control, and monitor the ticket system simulation. Watch in real-time as vendors add tickets and customers eagerly buy them!
 
 ### Features
