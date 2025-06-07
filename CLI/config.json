@@ -2,5 +2,5 @@
   "totalTickets": 100,
   "ticketReleaseRate": 1000,
   "customerRetrievalRate": 1000,
-  "maxCapacity": 10
+  "maxCapacity": 5
 }

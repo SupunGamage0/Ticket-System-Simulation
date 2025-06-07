@@ -1,0 +1,116 @@
+# ===================================================
+# General OS/System Files
+# ===================================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ===================================================
+# IDEs & Editors
+# ===================================================
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# ===================================================
+# Java / Maven / Spring Boot
+# ===================================================
+
+# Build output
+/target/
+/bin/
+/build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Spring Boot logs
+logs/
+*.log
+
+# Java environment
+*.h2.db
+*.sqlite
+*.db
+
+# ===================================================
+# Node.js / React Frontend
+# ===================================================
+
+# Dependency directory
+/frontend/node_modules/
+
+# Build output
+/frontend/build/
+frontend/.next/
+frontend/.cache/
+
+# Testing
+frontend/coverage/
+
+# Env files
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Log files
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Package locks (optional)
+frontend/package-lock.json
+frontend/yarn.lock
+
+# Vite / Webpack / Babel cache
+/frontend/.vite
+/frontend/.parcel-cache
+/frontend/.turbo
+/frontend/.babelrc
+/frontend/.eslintcache
+
+# ===================================================
+# Optional: OS-specific settings (Windows/Linux/macOS)
+# ===================================================
+*.~lock.*                # LibreOffice lock files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo

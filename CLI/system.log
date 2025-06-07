@@ -412,3 +412,209 @@
 [2024-12-09 05:41:41] Customer 4 bought Ticket ID 100 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
 [2024-12-09 05:41:41] All tickets are sold out.
 [2024-12-09 05:42:04] System has stopped. All tickets have been processed.
+[2025-06-07 21:59:17] System started with the following configuration:
+[2025-06-07 21:59:17]   Total Tickets: 100
+[2025-06-07 21:59:17]   Ticket Release Rate: 1000 ms
+[2025-06-07 21:59:17]   Customer Retrieval Rate: 1000 ms
+[2025-06-07 21:59:17]   Maximum Ticket Capacity: 5
+[2025-06-07 21:59:22] Vendor 1 added Ticket ID 1
+[2025-06-07 21:59:22] Customer 10 bought Ticket ID 1 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:22] Vendor 10 added Ticket ID 2
+[2025-06-07 21:59:22] Vendor 9 added Ticket ID 3
+[2025-06-07 21:59:22] Vendor 8 added Ticket ID 4
+[2025-06-07 21:59:22] Vendor 7 added Ticket ID 5
+[2025-06-07 21:59:22] Vendor 6 added Ticket ID 6
+[2025-06-07 21:59:22] Customer 1 bought Ticket ID 3 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 4
+[2025-06-07 21:59:22] Customer 2 bought Ticket ID 2 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 3
+[2025-06-07 21:59:22] Customer 3 bought Ticket ID 4 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:22] Customer 4 bought Ticket ID 6 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:22] Customer 5 bought Ticket ID 5 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:22] Vendor 2 added Ticket ID 7
+[2025-06-07 21:59:22] Vendor 3 added Ticket ID 8
+[2025-06-07 21:59:22] Vendor 4 added Ticket ID 9
+[2025-06-07 21:59:22] Vendor 5 added Ticket ID 10
+[2025-06-07 21:59:22] Customer 9 bought Ticket ID 8 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 3
+[2025-06-07 21:59:22] Customer 8 bought Ticket ID 7 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 2
+[2025-06-07 21:59:22] Customer 7 bought Ticket ID 10 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:22] Customer 6 bought Ticket ID 9 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:23] Vendor 1 added Ticket ID 11
+[2025-06-07 21:59:23] Customer 6 bought Ticket ID 11 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:23] Vendor 10 added Ticket ID 12
+[2025-06-07 21:59:23] Vendor 9 added Ticket ID 13
+[2025-06-07 21:59:23] Vendor 8 added Ticket ID 14
+[2025-06-07 21:59:23] Vendor 7 added Ticket ID 15
+[2025-06-07 21:59:23] Vendor 6 added Ticket ID 16
+[2025-06-07 21:59:23] Customer 1 bought Ticket ID 13 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 4
+[2025-06-07 21:59:23] Customer 2 bought Ticket ID 15 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 3
+[2025-06-07 21:59:23] Customer 3 bought Ticket ID 12 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:23] Customer 4 bought Ticket ID 16 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:23] Customer 5 bought Ticket ID 14 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:23] Vendor 2 added Ticket ID 17
+[2025-06-07 21:59:23] Vendor 3 added Ticket ID 18
+[2025-06-07 21:59:23] Vendor 4 added Ticket ID 19
+[2025-06-07 21:59:23] Vendor 5 added Ticket ID 20
+[2025-06-07 21:59:23] Customer 9 bought Ticket ID 17 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 3
+[2025-06-07 21:59:23] Customer 10 bought Ticket ID 20 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:23] Customer 7 bought Ticket ID 18 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:23] Customer 8 bought Ticket ID 19 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:24] Vendor 1 added Ticket ID 21
+[2025-06-07 21:59:24] Customer 10 bought Ticket ID 21 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:24] Vendor 10 added Ticket ID 22
+[2025-06-07 21:59:24] Vendor 9 added Ticket ID 23
+[2025-06-07 21:59:24] Vendor 8 added Ticket ID 24
+[2025-06-07 21:59:24] Vendor 7 added Ticket ID 25
+[2025-06-07 21:59:24] Customer 7 bought Ticket ID 25 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 3
+[2025-06-07 21:59:24] Vendor 6 added Ticket ID 26
+[2025-06-07 21:59:24] Customer 1 bought Ticket ID 24 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 3
+[2025-06-07 21:59:24] Customer 2 bought Ticket ID 23 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:24] Customer 3 bought Ticket ID 26 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:24] Customer 4 bought Ticket ID 22 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:24] Vendor 2 added Ticket ID 27
+[2025-06-07 21:59:24] Vendor 3 added Ticket ID 28
+[2025-06-07 21:59:24] Vendor 4 added Ticket ID 29
+[2025-06-07 21:59:24] Vendor 5 added Ticket ID 30
+[2025-06-07 21:59:24] Customer 9 bought Ticket ID 28 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 3
+[2025-06-07 21:59:24] Customer 8 bought Ticket ID 29 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 2
+[2025-06-07 21:59:24] Customer 5 bought Ticket ID 27 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:24] Customer 6 bought Ticket ID 30 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:25] Vendor 1 added Ticket ID 31
+[2025-06-07 21:59:25] Customer 10 bought Ticket ID 31 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:25] Vendor 10 added Ticket ID 32
+[2025-06-07 21:59:25] Customer 9 bought Ticket ID 32 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:25] Vendor 9 added Ticket ID 33
+[2025-06-07 21:59:25] Vendor 7 added Ticket ID 34
+[2025-06-07 21:59:25] Vendor 8 added Ticket ID 35
+[2025-06-07 21:59:25] Vendor 6 added Ticket ID 36
+[2025-06-07 21:59:25] Customer 7 bought Ticket ID 35 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 3
+[2025-06-07 21:59:25] Customer 2 bought Ticket ID 33 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 2
+[2025-06-07 21:59:25] Customer 3 bought Ticket ID 34 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:25] Customer 1 bought Ticket ID 36 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:25] Vendor 2 added Ticket ID 37
+[2025-06-07 21:59:25] Customer 6 bought Ticket ID 37 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:25] Vendor 4 added Ticket ID 38
+[2025-06-07 21:59:25] Vendor 3 added Ticket ID 39
+[2025-06-07 21:59:25] Vendor 5 added Ticket ID 40
+[2025-06-07 21:59:25] Customer 8 bought Ticket ID 40 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:25] Customer 4 bought Ticket ID 38 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:25] Customer 5 bought Ticket ID 39 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:26] Vendor 1 added Ticket ID 41
+[2025-06-07 21:59:26] Customer 10 bought Ticket ID 41 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:26] Vendor 10 added Ticket ID 42
+[2025-06-07 21:59:26] Customer 4 bought Ticket ID 42 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:26] Vendor 9 added Ticket ID 43
+[2025-06-07 21:59:26] Vendor 7 added Ticket ID 44
+[2025-06-07 21:59:26] Vendor 8 added Ticket ID 45
+[2025-06-07 21:59:26] Customer 7 bought Ticket ID 45 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:26] Vendor 6 added Ticket ID 46
+[2025-06-07 21:59:26] Customer 2 bought Ticket ID 44 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 2
+[2025-06-07 21:59:26] Customer 3 bought Ticket ID 46 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:26] Customer 1 bought Ticket ID 43 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:26] Vendor 2 added Ticket ID 47
+[2025-06-07 21:59:26] Customer 6 bought Ticket ID 47 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:26] Vendor 4 added Ticket ID 48
+[2025-06-07 21:59:26] Vendor 3 added Ticket ID 49
+[2025-06-07 21:59:26] Customer 5 bought Ticket ID 48 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:26] Vendor 5 added Ticket ID 50
+[2025-06-07 21:59:26] Customer 9 bought Ticket ID 49 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:26] Customer 8 bought Ticket ID 50 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:27] Vendor 1 added Ticket ID 51
+[2025-06-07 21:59:27] Vendor 10 added Ticket ID 52
+[2025-06-07 21:59:27] Customer 10 bought Ticket ID 52 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:27] Vendor 6 added Ticket ID 53
+[2025-06-07 21:59:27] Customer 3 bought Ticket ID 53 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:27] Customer 2 bought Ticket ID 51 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:27] Vendor 9 added Ticket ID 54
+[2025-06-07 21:59:27] Vendor 8 added Ticket ID 55
+[2025-06-07 21:59:27] Vendor 7 added Ticket ID 56
+[2025-06-07 21:59:27] Customer 7 bought Ticket ID 54 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 2
+[2025-06-07 21:59:27] Customer 1 bought Ticket ID 56 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:27] Customer 4 bought Ticket ID 55 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:27] Vendor 5 added Ticket ID 57
+[2025-06-07 21:59:27] Customer 8 bought Ticket ID 57 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:27] Vendor 2 added Ticket ID 58
+[2025-06-07 21:59:27] Customer 6 bought Ticket ID 58 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:27] Vendor 4 added Ticket ID 59
+[2025-06-07 21:59:27] Vendor 3 added Ticket ID 60
+[2025-06-07 21:59:27] Customer 9 bought Ticket ID 59 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:27] Customer 5 bought Ticket ID 60 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 1 added Ticket ID 61
+[2025-06-07 21:59:28] Customer 10 bought Ticket ID 61 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 10 added Ticket ID 62
+[2025-06-07 21:59:28] Customer 7 bought Ticket ID 62 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 8 added Ticket ID 63
+[2025-06-07 21:59:28] Vendor 9 added Ticket ID 64
+[2025-06-07 21:59:28] Vendor 7 added Ticket ID 65
+[2025-06-07 21:59:28] Customer 4 bought Ticket ID 63 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:28] Customer 1 bought Ticket ID 64 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:28] Customer 2 bought Ticket ID 65 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 6 added Ticket ID 66
+[2025-06-07 21:59:28] Customer 3 bought Ticket ID 66 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 3 added Ticket ID 67
+[2025-06-07 21:59:28] Customer 5 bought Ticket ID 67 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 5 added Ticket ID 68
+[2025-06-07 21:59:28] Vendor 2 added Ticket ID 69
+[2025-06-07 21:59:28] Customer 8 bought Ticket ID 68 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:28] Customer 6 bought Ticket ID 69 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:28] Vendor 4 added Ticket ID 70
+[2025-06-07 21:59:28] Customer 9 bought Ticket ID 70 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:29] Vendor 1 added Ticket ID 71
+[2025-06-07 21:59:29] Vendor 10 added Ticket ID 72
+[2025-06-07 21:59:29] Customer 10 bought Ticket ID 72 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:29] Customer 7 bought Ticket ID 71 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:29] Vendor 6 added Ticket ID 73
+[2025-06-07 21:59:29] Customer 3 bought Ticket ID 73 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:29] Vendor 8 added Ticket ID 74
+[2025-06-07 21:59:29] Vendor 9 added Ticket ID 75
+[2025-06-07 21:59:29] Vendor 7 added Ticket ID 76
+[2025-06-07 21:59:29] Customer 1 bought Ticket ID 74 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 2
+[2025-06-07 21:59:29] Customer 4 bought Ticket ID 75 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:29] Customer 2 bought Ticket ID 76 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:29] Vendor 4 added Ticket ID 77
+[2025-06-07 21:59:29] Customer 9 bought Ticket ID 77 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:29] Vendor 3 added Ticket ID 78
+[2025-06-07 21:59:29] Customer 5 bought Ticket ID 78 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:29] Vendor 5 added Ticket ID 79
+[2025-06-07 21:59:29] Vendor 2 added Ticket ID 80
+[2025-06-07 21:59:29] Customer 8 bought Ticket ID 80 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:29] Customer 6 bought Ticket ID 79 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 1 added Ticket ID 81
+[2025-06-07 21:59:30] Customer 10 bought Ticket ID 81 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 10 added Ticket ID 82
+[2025-06-07 21:59:30] Customer 7 bought Ticket ID 82 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 6 added Ticket ID 83
+[2025-06-07 21:59:30] Customer 3 bought Ticket ID 83 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 7 added Ticket ID 84
+[2025-06-07 21:59:30] Vendor 8 added Ticket ID 85
+[2025-06-07 21:59:30] Vendor 9 added Ticket ID 86
+[2025-06-07 21:59:30] Customer 1 bought Ticket ID 85 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 2
+[2025-06-07 21:59:30] Customer 4 bought Ticket ID 86 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:30] Customer 2 bought Ticket ID 84 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 4 added Ticket ID 87
+[2025-06-07 21:59:30] Customer 9 bought Ticket ID 87 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 3 added Ticket ID 88
+[2025-06-07 21:59:30] Vendor 2 added Ticket ID 89
+[2025-06-07 21:59:30] Customer 5 bought Ticket ID 88 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:30] Customer 8 bought Ticket ID 89 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 0
+[2025-06-07 21:59:30] Vendor 5 added Ticket ID 90
+[2025-06-07 21:59:30] Customer 6 bought Ticket ID 90 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:31] Vendor 1 added Ticket ID 91
+[2025-06-07 21:59:31] Vendor 7 added Ticket ID 92
+[2025-06-07 21:59:31] Customer 10 bought Ticket ID 91 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:31] Vendor 10 added Ticket ID 93
+[2025-06-07 21:59:31] Customer 7 bought Ticket ID 92 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:31] Vendor 6 added Ticket ID 94
+[2025-06-07 21:59:31] Customer 3 bought Ticket ID 93 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:31] Vendor 8 added Ticket ID 95
+[2025-06-07 21:59:31] Vendor 9 added Ticket ID 96
+[2025-06-07 21:59:31] Customer 9 bought Ticket ID 96 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 2
+[2025-06-07 21:59:31] Customer 1 bought Ticket ID 95 [Event: Music Festival, Location: Main Auditorium, Price: $100.0]. Pool size: 1
+[2025-06-07 21:59:31] Customer 4 bought Ticket ID 94 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:31] Vendor 4 added Ticket ID 97
+[2025-06-07 21:59:31] Vendor 3 added Ticket ID 98
+[2025-06-07 21:59:31] Customer 2 bought Ticket ID 98 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 1
+[2025-06-07 21:59:31] Vendor 2 added Ticket ID 99
+[2025-06-07 21:59:31] Customer 6 bought Ticket ID 97 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 1
+[2025-06-07 21:59:31] Customer 5 bought Ticket ID 99 [Event: Music Festival, Location: Main Auditorium, Price: $50.0]. Pool size: 0
+[2025-06-07 21:59:31] Vendor 5 added Ticket ID 100
+[2025-06-07 21:59:31] Customer 8 bought Ticket ID 100 [Event: Music Festival, Location: Main Auditorium, Price: $150.0]. Pool size: 0
+[2025-06-07 21:59:31] All tickets are sold out.
